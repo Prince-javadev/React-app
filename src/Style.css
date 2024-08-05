@@ -1,0 +1,17 @@
+.task-item h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .task-item.completed h3 {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
+  .task-details {
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 0.9em;
+    color: #555;
+  }
+  
